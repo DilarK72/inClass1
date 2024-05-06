@@ -1,0 +1,19 @@
+p,
+h1 {
+
+    text-align: center;
+}
+
+body {
+
+    background-color: turquoise;
+}
+
+.button {
+    text-align: center;
+}
+
+.button input[type="button"] {
+    background-color: #eab676;
+    color: aliceblue;
+}
